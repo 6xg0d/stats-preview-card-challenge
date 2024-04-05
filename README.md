@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
-- [Live Site URL here](https://6xg0d.github.io/stats-preview-card-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-challenge-solution-WvF-DnDMjt)
+- [Live Site](https://6xg0d.github.io/stats-preview-card-challenge/)
 
 ## My process
 
